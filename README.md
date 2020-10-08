@@ -4,7 +4,7 @@
 
 * Web App Hosting: HEROKU
 
-* Address: https://ptwit-lfjr.herokuapp.com
+* Address: https://myowntwitter.herokuapp.com
 
 * Ruby version: 2.6.6
 
@@ -14,4 +14,4 @@
 
 * Database: sqlite3 to pg in production
 
-* Gems: 'kaminari', 'devise'
+* Gems: 'kaminari', 'devise', 'activeadmin'
